@@ -1,0 +1,10 @@
+repoName: hellomyproject
+appName: sdkj
+namespace: sdkj-main
+domainSuffix: akamir.com
+subRoutes: []
+image:
+  registry: registry.akamir.com
+  tag: main-live
+main:
+  domains: []
